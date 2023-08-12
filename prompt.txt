@@ -1,0 +1,123 @@
+1. Starting Your Prompt:
+
+    Initiate with “/imagine prompt:”.
+
+2. Structuring Details:
+
+    Soft breaks: Use commas ,.
+    Hard breaks: Use double colons ::.
+    Emphasize concepts: Add numerical weights after ::, e.g., “::2”.
+    To discourage concepts: Use negative image weights, e.g., “::-1”.
+
+3. Incorporate Specifics:
+
+    Mention camera angles: selfies, panoramic, GoPro.
+    Describe lighting scenarios, styles, and processing techniques.
+    Use phrases like “photographed by,” “designed by,” or “directed by”.
+    Adjust aspect ratios using “—ar”.
+    Add customization: "—chaos" (range 1-100), "--stylize" (range 100-1000), "--stop" (range 10–100, default is 100).
+
+4. Keywords & Realism:
+
+    Enhance with terms like "photorealism," "highly detailed."
+    Mention art forms: Photorealism, Hyperrealism, Naturalism.
+
+5. Prohibited Terms:
+
+    Avoid "bloody," "nude," "mccurry," "gore".
+
+6. Art Styles:
+
+    Steampunk: Retro-futuristic.
+    Psychedelic: Abstract, ethereal.
+    Glitch Art: Aesthetic errors, appears corrupted.
+    Watercolor Art: Resembles traditional watercolor paintings.
+    Minimalism: Simplified elements.
+    Cyberpunk: Futuristic, lowlife meets high-tech.
+    Vaporwave: Early Internet imagery, neon colors.
+    Surrealism: Unconscious mind, bizarre or dreamlike.
+    Art Deco: Bold geometry, rich colors, popular in the 1910s-1930s.
+    Cave Painting: Primitive and ancient.
+    Hyperrealism: High-resolution photo-like, intricate details.
+
+7. Digital Art Styles:
+
+    Anime: Vibrant colors, dynamic movement, Japanese animation.
+    Manga: Detailed Japanese comic style.
+    Fantasy: Imaginative, magical creatures, mythical settings.
+    Sci-Fi: Futuristic settings, extraterrestrial life.
+    Comic Book: Bold lines, typical in comics.
+    Pixel Art: Art using individual pixels.
+    Low Poly: 3D with limited polygons, geometric shapes.
+    Vaporwave: Nostalgic, elements from the 80s and 90s.
+    Glitch Art: Digital errors and distortions.
+    Cyberpunk: Futuristic, dystopian, cybernetic enhancements.
+
+8. Photography Styles:
+
+    Portrait Photography: Focus on people's likeness.
+    Landscape Photography: Natural and man-made environments.
+    Still Life Photography: Arranged inanimate objects.
+    Nature Photography: Wildlife, plants, natural elements.
+    Wildlife Photography: Animals in natural habitats.
+    Seascape Photography: Water bodies, coastlines.
+    Cityscape Photography: Urban environments, architecture.
+    Astrophotography: Celestial objects, astronomical events.
+    Macro Photography: Close-ups, intricate details.
+    Micro Photography: Extremely close-up, special equipment.
+    Aerial Photography: Elevated perspective landscapes.
+    Underwater Photography: Marine environments.
+    Panoramic Photography: Wide, expansive scenes.
+    Time-Lapse Photography: Sequence over time.
+    Stop-Motion Photography: Illusion of movement from photos.
+    Animated Photography: Combines photos with animation.
+    Computer-Generated Photography: Digital creation/manipulation.
+    3D Photography: Three-dimensional appearance.
+    Virtual Reality Photography: Immersive, 360-degree.
+    Augmented Reality Photography: Digital elements combined.
+    Mixed Media Photography: Photography plus other mediums.
+    Performance Photography: Live art performances/events.
+    Installation Photography: Large-scale art installations.
+    Street Photography: Candid public spaces.
+    Graffiti Photography: Street art focus.
+    Banksy Photography: Art by Banksy.
+    Documentary Photography: Real-life events/people.
+    Futurist Photography: Dynamism, speed, energy.
+    Photograms: Cameraless photos.
+    Cyanotypes: Produces a cyan-blue print.
+    Lomography: Embraces imperfections.
+    Holga: Light leaks, vignetting, soft focus.
+    Pinhole Photography: Cameraless technique.
+    Film Noir: Dark, moody style of classic films.
+    New Objectivity: Unsentimental realism, social critique.
+    Double Exposure Photography: Multiple images in one frame.
+
+9. Design Styles:
+
+    Interior Design: Functional, aesthetically pleasing interiors.
+    Industrial Design: Form, function, user experience.
+    Product Design: Appearance/functionality of items.
+    Furniture Design: Functional, aesthetically pleasing furniture.
+    Textile Design: Patterns for fabrics, clothing, textiles.
+    Ceramic Art: Objects from clay.
+    Glass Art: Using glass medium.
+    Metal Art: Using metal.
+    Wood Art: Using wood.
+    Stone Art: Using stone.
+    Bone Art: Using bone.
+    Shell Art: Using shells.
+    Paper Art: Using paper.
+    Book Art: Books, bookbinding techniques.
+    Paper Mache: Paper + adhesive.
+    De Stijl: Pure abstraction, simplicity.
+    Bauhaus: Functionality, unity of art/craft/tech.
+    Art Informel: European abstract, spontaneous.
+    Tachisme: Abstract, spontaneous brushwork.
+    Action Painting: Abstract expressionist technique.
+    Lyrical Abstraction: Free, emotive expression.
+    Color Field Painting: Flat, solid color.
+
+10. Crafting a Detailed Prompt:
+
+    Integrate elements: Architect's name, style, tools, geometry, dimensions, textures, lighting, mood, time, cultural influences.
+    Example: /imagine prompt: A serene dusk setting, photographed by Ansel Adams, with soft backlit lighting, in the style of Steampunk, using a panoramic view —ar 16:9 --chaos 50 --stylize 500.
